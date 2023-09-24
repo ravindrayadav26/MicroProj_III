@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "name": "projectthird",
+    "version": "1.0.0",
+    "scripts": {
+      "script": "node script.js"
+    }
+  }
